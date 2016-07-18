@@ -1,2 +1,5 @@
-# fme_dataset_api_workflow
-Example FME workflows to integrate with dkan api's 
+# FME DKAN API's example workflows
+
+A bunch of FME workflows that use the dkan's api.
+
+Docs available in [docs folder](docs)
