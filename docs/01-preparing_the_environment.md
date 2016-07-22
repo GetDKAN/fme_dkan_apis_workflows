@@ -2,7 +2,7 @@
 
 ## Configure the PythonModuleInstaller transformer
 
-This transformer gives people the possibility to install a third party python library (as pydkan) while running a workflow so it's available within fme workbench's python.
+This transformer gives people the possibility to install a third party python library (such as [pydkan](https://github.com/NuCivic/pydkan)) while running a workflow so that it's available within FME Workbench's python.
 
 + Go to **Transformers/Add Transformer** (or type `/`)
 
